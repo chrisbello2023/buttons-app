@@ -19,9 +19,9 @@ Testing: Ensures the button click correctly updates the displayed text.
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/simple-web-app.git
+git clone https://github.com/chrisbello2023/buttons-app.git
 
-cd simple-web-app
+cd buttons-app
 
 # Project Setup
 2. Initialize the Project
