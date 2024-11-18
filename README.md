@@ -20,4 +20,25 @@ Testing: Ensures the button click correctly updates the displayed text.
 bash
 Copy code
 git clone https://github.com/yourusername/simple-web-app.git
+
 cd simple-web-app
+
+# Project Setup
+2. Initialize the Project
+Run the following commands to set up the project:
+
+Initialize a new Node.js project:
+
+bash
+Copy code
+npm init -y
+Install testing dependencies:
+
+bash
+Copy code
+npm install --save-dev mocha chai
+Start a local development server (e.g., with Python or Node.js):
+
+bash
+Copy code
+python3 -m http.server 8080
