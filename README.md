@@ -25,20 +25,21 @@ git clone https://github.com/chrisbello2023/buttons-app.git
 
 # Project Setup
 2. Initialize the Project
-Run the following commands to set up the project:
+   Run the following commands to set up the project:
 
-Initialize a new Node.js project:
+    Initialize a new Node.js project:
 
-bash
-Copy code
-npm init -y
-Install testing dependencies:
+    bash
+    Copy code
+    npm init -y
 
-bash
-Copy code
-npm install --save-dev mocha chai
-Start a local development server (e.g., with Python or Node.js):
+# Install testing dependencies:
 
-bash
-Copy code
-python3 -m http.server 8080
+ bash
+ Copy code
+ npm install --save-dev mocha chai
+ Start a local development server (e.g., with Python or Node.js):
+
+ bash
+ Copy code
+ python3 -m http.server 8080
