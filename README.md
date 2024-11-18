@@ -21,7 +21,7 @@ bash
 Copy code
 git clone https://github.com/chrisbello2023/buttons-app.git
 
-cd buttons-app
+     cd buttons-app
 
 # Project Setup
 2. Initialize the Project
